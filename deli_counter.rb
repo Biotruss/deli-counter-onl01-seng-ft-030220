@@ -4,4 +4,5 @@ def line(people)
     puts "The line is currently empty."
   else
     queue << people
+  end
 end
