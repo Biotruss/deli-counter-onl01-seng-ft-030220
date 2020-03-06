@@ -1,3 +1,3 @@
-def deli counter(line)
+def deli_counter(line)
   
 end
