@@ -1,1 +1,3 @@
-def Deli
+def deli counter()
+  
+end
